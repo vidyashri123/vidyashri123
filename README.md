@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Vidyashri
 
-## 👨‍💻 Software Web Developer | MERN Stack Enthusiast | Open Source Contributor
+## 👨‍💻 Software Web Developer | Full Stack Enthusiast | Open Source Contributor
 
-I'm a passionate web developer specializing in **MERN Stack Developer**. I love building efficient and user-friendly web applications.
+I'm a passionate web developer specializing in **Full Stack Developer**. I love building efficient and user-friendly web applications.
 
 ## 🔧 Technologies & Tools
 - **Languages**: JavaScript, HTML, CSS, Python
@@ -24,7 +24,7 @@ My personal portfolio showcasing my work.
 
 # Hi there 👋, I'm Vidyashri
 
-## 👨‍💻 Software Web Developer | MERN Stack Enthusiast | Open Source Contributor
+## 👨‍💻 Software Web Developer | Full Stack Enthusiast | Open Source Contributor
 
 I'm a passionate web developer specializing in **JavaScript** and **React**. I love building efficient and user-friendly web applications.
 
@@ -36,13 +36,13 @@ I'm a passionate web developer specializing in **JavaScript** and **React**. I l
 
 ## 🚀 Projects
 
-### [React E-commerce App](https://github.com/alexjohnson/react-ecommerce-app)
+### [React E-commerce App](https://github.com/vidyashri123/react-ecommerce-app)
 A full-featured e-commerce application built with React.
 
-### [JavaScript Utility Library](https://github.com/alexjohnson/js-utility-library)
+### [JavaScript Utility Library](https://github.com/vidyashri123/js-utility-library)
 A collection of useful JavaScript functions.
 
-### [Portfolio Website](https://github.com/alexjohnson/portfolio-website)
+### [Portfolio Website](https://github.com/vidyashri123/portfolio)
 My personal portfolio showcasing my work.
 
 ## 📊 GitHub Stats
