@@ -28,6 +28,9 @@ My personal portfolio showcasing my work.
 
 I'm a passionate web developer specializing in **JavaScript** and **React**. I love building efficient and user-friendly web applications.
 
+
+
+
 ## 🔧 Technologies & Tools
 - **Languages**: JavaScript, HTML, CSS, Python
 - **Frameworks**: React, Node.js, Express
