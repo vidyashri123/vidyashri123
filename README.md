@@ -1,55 +1,46 @@
-# Welcome to [Aswin Barath's](https://aswinbarath.me/) profile! <a href="https://www.aswinbarath.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Vidyashri's](https://Vidyashri.me/) profile! <a href="https://www.vidyashri.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<a href="https://www.linkedin.com/in/aswin-barath/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aswin-barath" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vidyashri-m-858a77250/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vidyashri" height="30" width="40" /></a>
 &nbsp;
-<a href="https://twitter.com/AswinBarath2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AswinBarath2" height="30" width="40" /></a>
+<a href="https://twitter.com/vidyashri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Vidyashri" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.instagram.com/aswin_barath_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aswin_barath_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/vidya_manishgowda_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vidya_manishgowda_" height="30" width="40" /></a>
 &nbsp;
 <a href="https://www.facebook.com/profile.php?id=100011683902531" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100011683902531e" height="30" width="40" /></a>
 &nbsp;
 
 
 
-## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=AswinBarath.AswinBarath)
+## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=Vidyashri.Vidyashri)
 
-I am a full-stack software engineer and writer. I love programming, reading, writing and speaking.
-
-As a software engineer, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
+👋 Hi, I'm Vidyashri, a passionate Full Stack Developer with a knack for designing and developing efficient and scalable web applications. I thrive in dynamic, fast-paced environments and love collaborating with teams to solve complex problems and deliver outstanding results.
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/vidyashri123/blob/master/coding.gif?raw=true" width="408" height="318" />
 
 
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Senior Software Engineering Student**
-- 🔭 I’m currently working on [JU Query](https://github.com/AswinBarath/ju-query) platform
-- 👨‍🏫 I'm the **Community Leader** at [Codecademy JU](https://community.codecademy.com/jain-university-ju/)
+- 🔭 I’m currently working on [MERN Stack](https://github.com/vidyashri123/MERN Stack) platform
+- 👨‍🏫 I'm the **Community Leader** at [Codecademy JU](https://community.codecademy.com/jss-university-ju/)
 - 💬 Ask me about anything, I am happy to help
-- ✍ I'm a **Technical blogger** with 10,000+ user reads
 - 🌱 I'm currently learning:
-  - Data Structures and Algorithms on [LeetCode](https://leetcode.com/aswin26barath/)
+  - Data Structures and Algorithms 
   - Tools and technologies from <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a> ecosystem
-- 👯 Join my [community](https://community.codecademy.com/jain-university-ju/) if you're a tech enthusiast
-- 📬 How to reach me: [aswin2001barath@gmail.com](mailto:aswin2001barath@gmail.com)
-- 📝 [Resume](https://drive.google.com/file/d/1VsShEZAzpmwZUsfn2G5XgENlrUkv7BJ_/view?usp=sharing).
+- 📬 How to reach me: [vidyamgowda8762@gmail.com](mailto:vidyamgowda8762@gmail.com)
+- 📝 [Resume](https://drive.google.com/file/d/1yYvT2eROiOoJG9ATc1HoHOgwB1cxPP5K/view?usp=drivesdk).
 - 💪 This is where I write, code and solve problems:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/AswinBarath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="AswinBarath" height="30" width="40" /></a>
+<a href="https://github.com/vidyashri123" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vidyashri123" height="30" width="40" /></a>
 &nbsp;
 <a href="https://leetcode.com/aswinb/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aswin26barath" height="30" width="40" /></a>
 &nbsp;
-<a href="https://stackoverflow.com/users/13064312/aswin-barath?tab=profile" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13064312" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vidyamgowda" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vidyamgowda" height="30" width="40" /></a>
 &nbsp;
-<a href="https://www.hackerrank.com/AswinBarath2" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="AswinBarath2" height="30" width="40" /></a>
-&nbsp;
-<a href="https://medium.com/@aswinbarath" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aswin2001barath" height="30" width="40" /></a>
-&nbsp;
-<a href="https://dev.to/aswinbarath" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aswin2001barath" height="30" width="40" /></a>
-&nbsp;
+
 
 ---
 
@@ -133,18 +124,14 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
   <summary>&nbsp;&nbsp;<b>🔥 GitHub Contributions Streak</summary>
   <br/>
 
-  <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=AswinBarath&theme=react-dark&bg_color=20232a&hide_border=true" width=100%" />
-  </p>
-
 </details>
 
 
 <details>
   <summary>&nbsp;&nbsp;<b>😺 My Github stats, 😻 Current Streak and 😸 Most Used Languages</summary>
   <br/>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="AswinBarath's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=AswinBarath&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="AswinBarath's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AswinBarath&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="vidyashri123's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vidyashri&show_icons=true&count_private=true&theme=react&border=61dafb&hide_border=true" height="172px"/></a>
+	<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img alt="vidyashri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidyashri&langs_count=6&layout=compact&theme=react&hide_border=true&border_color=61dafb&hide=Jupyter%20Notebook,html,css,scss,pug,ruby,php,shell" height="172px"/></a>
   <br/>
   ⚡ I'm a <b>Polyglot programmer</b> in diverse languages
   <br/>
@@ -152,30 +139,14 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 
 <p align=center>
   <a href="https://git.io/streak-stats" title="Go to Source">
-    <img alt="AswinBarath's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AswinBarath&theme=react&border=61dafb" height="192px"/>
+    <img alt="vidyashri's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vidyashri123&theme=react&border=61dafb" height="192px"/>
   </a>
 </p>
 <br />
 
 </details>
 
----
 
-## 📕Latest Blog Posts
-
-- [Technology Keeps Changing with Noonies Nominee Aswin Barath](https://hackernoon.com/the-good-thing-and-the-bad-thing-about-technology-with-noonies-nominee-aswin-barath)
-- [Coding 101: Programming Language Building Blocks](https://hackernoon.com/coding-101-programming-language-building-blocks-1w513uwe)
-- [Python Programming: A Beginner’s Guide](https://dev.to/aswinbarath/python-programming-a-beginner-s-guide-k8n)
-- [Become a Job Ready Programmer](https://medium.com/techsoftware/become-a-job-ready-programmer-1e5a8cdd1351)
-
-
-<!-- BLOG-POST-LIST:START -->
-- [Learning in Public and Getting Opportunities](https://dev.to/aswinbarath/learning-in-public-and-getting-opportunities-4i92)
-- [Introduction to programming](https://dev.to/aswinbarath/introduction-to-programming-31od)
-- [Accessing Firebase services](https://dev.to/aswinbarath/accessing-firebase-services-4mn9)
-- [Firebase core services](https://dev.to/aswinbarath/firebase-core-services-4hkl)
-- [What is Firebase?](https://dev.to/aswinbarath/what-is-firebase-3f35)
-<!-- BLOG-POST-LIST:END -->
 
 
 
