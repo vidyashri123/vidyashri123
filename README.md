@@ -13,7 +13,7 @@
 
 ## Glad to see you here! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=Vidyashri.Vidyashri)
 
-👋 Hi, I'm Vidyashri, a passionate Full Stack Developer with a knack for designing and developing efficient and scalable web applications. I thrive in dynamic, fast-paced environments and love collaborating with teams to solve complex problems and deliver outstanding results.
+👋 Hi, I'm Vidyashri, a passionate Frontend Web Developer with a knack for designing and developing efficient and scalable web applications. I thrive in dynamic, fast-paced environments and love collaborating with teams to solve complex problems and deliver outstanding results.
 
 That's why I like to make things that make a difference.
 
@@ -23,7 +23,7 @@ That's why I like to make things that make a difference.
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Senior Software Engineering Student**
-- 🔭 I’m currently working on [MERN Stack](https://github.com/vidyashri123/MERN Stack) platform
+- 🔭 I’m currently working on Frontend Developer(https://github.com/vidyashri123/React and Angular Developer) platform
 - 👨‍🏫 I'm the **Community Leader** at [Codecademy JU](https://community.codecademy.com/jss-university-ju/)
 - 💬 Ask me about anything, I am happy to help
 - 🌱 I'm currently learning:
